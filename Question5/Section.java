@@ -22,7 +22,7 @@ public class Section {
         result3.forEach(System.out::println);
     }
 
-    
+
     private static Stream<String> nextStream() {
         return Arrays.asList("aaa", "bbb", "ccc", "ddd", "eee", "fff", "ggg", "hhh", "iii").stream();
     }
